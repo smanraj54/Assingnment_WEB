@@ -1,12 +1,29 @@
 Name : Manraj Singh 
 Student ID: B00877934 
 dal id: mn697903@dal.ca
-Tutorial-LAB 3
+Assignment 1
 
 Group10-s21 Course instructor : Prof. Gabriella Mosquera
 
-Link To Hiroku: https://webassignmentms1.herokuapp.com deployed to Heroku
-github link : https://github.com/smanraj54/Assingnment_WEB.git
+# Link To Heroku: https://webassignmentms1.herokuapp.com deployed to Heroku
+# github link : https://github.com/smanraj54/Assingnment_WEB.git
+# Link to the wireFrame : https://wireframe.cc/tocEyO
+
+## semi finctional prototype :
+
+I Used wireframe.cc for creating my semi-functional prototype[11]
+
+## Reason to chose this wireFrame:
+
+I chose thios wireframe design because all my required data can be shown in this wireframe and it's easy to read for senior citizens and people in special needs. Not many colors to confuse them from the task they need to perform and as easy as singkle button add and remove of item.
+
+## i missed to add yet:
+
+Routing/Redirection is missing in this wireframe and the page. 
+
+# Link to the wireFrame : https://wireframe.cc/tocEyO
+
+
 
 ## Before Starting Requirements
 
@@ -53,3 +70,20 @@ References
 [7] RegExr. 2021. RegExr: Learn, Build, & Test RegEx. [online] Available at: <https://regexr.com/3e48o> [Accessed 3 June 2021].
 
 [8] Unsplash.com. 2021. 100+ Fruits Pictures | Download Free Images on Unsplash. [online] Available at: <https://unsplash.com/images/food/fruits> [Accessed 7 June 2021].
+
+[9] Flowchart maker & online diagram software. (n.d.). Retrieved June 7, 2021, from Diagrams.net website: https://app.diagrams.net/ 
+
+[10] Super Fast Visual Sitemap Tool. (n.d.). Retrieved June 7, 2021, from Octopus.do website: https://octopus.do/4g5vux1opoy 
+
+[11] Wireframe.cc. (n.d.). Retrieved June 7, 2021, from Wireframe.cc website: https://wireframe.cc/tocEyO 
+
+[12] Figma. Retrieved June 7, 2021, from figma.com website: https://www.figma.com/ 
+
+[13] Daysoftheyear.com. [Online]. Available: https://www.daysoftheyear.com/wp-content/uploads/gorgeous-grandma-day1-scaled.jpg. 
+[Accessed: 07-Jun-2021]. 
+
+[14] Coca-colaindia.com. [Online]. Available: https://www.coca-colaindia.com/content/dam/journey/in/en/private/stories/history/the_logo_story_01122014_596x334.rendition.320.179.jpg. [Accessed: 07-Jun-2021]. 
+
+[15] Nestleprofessional.ca. [Online]. Available: https://www.nestleprofessional.ca/sites/g/files/gfb341/f/styles/brand/public/media/chocolove-logo-nestle-pro-foodservice.png?itok=2eD3RwFz. [Accessed: 07-Jun-2021]. 
+
+[16] "Wireframe.cc | The go-to wireframing tool.", Wireframe.cc, 2021. [Online]. Available: https://wireframe.cc. [Accessed: 07- Jun- 2021].
