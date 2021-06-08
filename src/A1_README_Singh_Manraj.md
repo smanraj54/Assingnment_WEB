@@ -8,6 +8,34 @@ Group10-s21 Course instructor : Prof. Gabriella Mosquera
 Link To Hiroku: https://webassignmentms1.herokuapp.com deployed to Heroku
 github link : https://github.com/smanraj54/Assingnment_WEB.git
 
+## Before Starting Requirements
+
+You must have node, react, bootstrap Stype installed in your system. below are the instructions:
+npm install react-bootstrap bootstrap
+npm install --save react-style
+npm install react
+
+
+## Getting Started
+
+First Clone the repository in your local and run npm start to ruun it in your local
+push teh code to Github
+Create Account on heroku
+link heroku with the github account
+Build the branch where code is cloned
+After the build is complete run teh hiroku app.
+Enjoyy!!
+
+## What you will see:
+
+you will see the forst page of Cart management where all the card items will be listed
+On click of any button in the page you will be see an alert showing the expected action.
+
+
+in this code i have used code form Bootstrap-react [1], [2], [3], [4], [5], [6] references below:
+I have also used Regexr code for validation: [7]
+I have also used some images which are fetched from [8]
+
 
 References
 [1] Getbootstrap.com. 2021. Redirecting…. [online] Available at: <https://getbootstrap.com/docs/4.0/components/> [Accessed 3 June 2021].
