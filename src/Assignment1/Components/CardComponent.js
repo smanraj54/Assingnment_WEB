@@ -23,7 +23,9 @@ export const CardComponent = (props) =>{
   </Row>
   <Row>
     <Col>
-    <Button style={{margin:'20px'}} variant="outline-danger" className="float-right">Remove Item</Button>
+    <Button style={{margin:'20px'}} variant="outline-danger" className="float-right"onClick = {() => {
+                        alert("Removed This Item"); 
+                    }}>Remove Item</Button>
     </Col>
   </Row>
 </Card>

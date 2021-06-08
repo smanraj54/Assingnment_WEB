@@ -1,4 +1,4 @@
-import {Container, Row, Col, Button, Alert} from 'react-bootstrap';
+import {Container, Row, Col, Button} from 'react-bootstrap';
 import {CardComponent} from './Components/CardComponent';
 import Apple from '../FruitImages/Apple3.jpg';
 import Banana from '../FruitImages/Banana3.jpg';
@@ -15,7 +15,7 @@ export const Cart = () =>{
             </Row>
             <Row>
                 <Col>
-                    <CardComponent image = {Banana} heading = '$5.97 Banana: From Maysur' quantity = 'quantity: 5KG'/>
+                    <CardComponent image = {Banana} heading = '$5.97 Banana: From Maysaur' quantity = 'quantity: 5KG'/>
                 </Col>
             </Row>
             <Row>
@@ -25,24 +25,14 @@ export const Cart = () =>{
             </Row>
             <Row>
                 <Col>
-                    <Button variant="outline-danger" className="float-left" style = {{width: 200}} >Remove All</Button>
+                    <Button variant="outline-danger" className="float-left" style = {{width: 200}} onClick = {() => {
+                        alert("Removed All Items"); 
+                    }}>Remove All</Button>
                 </Col>
             
                 <Col>
                     <Button variant="primary" className="float-right" style = {{width: 200}} onClick = {() => {
-                        return <Alert variant="success">
-                        <Alert.Heading>Hey, nice to see you</Alert.Heading>
-                        <p>
-                          Aww yeah, you successfully read this important alert message. This example
-                          text is going to run a bit longer so that you can see how spacing within an
-                          alert works with this kind of content.
-                        </p>
-                        <hr />
-                        <p className="mb-0">
-                          Whenever you need to, be sure to use margin utilities to keep things nice
-                          and tidy.
-                        </p>
-                      </Alert>
+                        alert("Payment Page"); 
                     }}>Payment</Button>
                 </Col>
             </Row>

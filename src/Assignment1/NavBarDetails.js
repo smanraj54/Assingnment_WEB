@@ -32,7 +32,9 @@ return(
         className="mr-2"
         aria-label="Search"
       />
-      <Button variant="outline-success">Search</Button>
+      <Button variant="outline-success"onClick = {() => {
+                        alert("Search Page Redirected"); 
+                    }}>Search</Button>
     </Form>
   </Navbar.Collapse>
 </Navbar>
